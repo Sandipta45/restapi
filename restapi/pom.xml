@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>in.sandipta</groupId>
 	<artifactId>restapi</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>restapi</name>
 	<description>Spring Boot  REST API</description>
 	<url/>
